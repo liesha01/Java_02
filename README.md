@@ -10,7 +10,7 @@ This repository is designed to **demonstrate real-world applications** of Java F
 **Frontend:**
 - React JS
 - Redux Toolkit
-- Bootstrap & CSS
+- Bootstrap & CSS 
 
 **Backend:**
 - Spring Boot (Java)
